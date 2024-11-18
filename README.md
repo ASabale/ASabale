@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshay Saale
+- 👋 Hi, I’m Akshay Sabale
 - 👀 I’m interested in learning new technologies and exploring
 
 <!---
