@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASabale
+- 👋 Hi, I’m Akshay Saale
 - 👀 I’m interested in learning new technologies and exploring
 
 <!---
